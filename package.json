@@ -1,0 +1,26 @@
+{
+  "name": "remove-invisible-characters",
+  "version": "1.0.0",
+  "description": "Remove ascii extended characters which are not visible on screen and break your nodejs code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zegulas/remove-invisible-characters.git"
+  },
+  "keywords": [
+    "remove",
+    "invisible",
+    "characters",
+    "ascii",
+    "extended"
+  ],
+  "author": "zegulas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zegulas/remove-invisible-characters/issues"
+  },
+  "homepage": "https://github.com/zegulas/remove-invisible-characters#readme"
+}
