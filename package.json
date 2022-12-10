@@ -1,6 +1,6 @@
 {
   "name": "remove-invisible-characters",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Remove ascii extended characters which are not visible on screen and break your nodejs code.",
   "main": "index.js",
   "scripts": {
